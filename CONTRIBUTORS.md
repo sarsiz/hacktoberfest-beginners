@@ -32,3 +32,8 @@
  - Place: GuangXi, China
  - Bio: Programmer for fun
  - GitHub: [linehk](https://github.com/linehk)
+ 
+ #### Name: [Sarsiz Chauhan](https://github.com/sarsiz)
+ - Place: Sonipat, Haryana, India
+ - Bio: CSE, Undergrad
+ - GitHub: [sarsiz](https://github.com/sarsiz) 
